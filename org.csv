@@ -1,4 +1,5 @@
 2001;CAPADR ;Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural
+<<<<<<< HEAD
 8653;PEC45301 ;Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 453-A de 2001, do Sr. Raimundo Gomes de Matos, que "dá nova redação ao caput do art. 38 da Constituição Federal" (propondo a volta à redação originária do artigo 38 da Constituição, aplicando ao servidor da administração indireta as normas para exercício de mandato eletivo)
 537124;PL192703 ;Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.927, de 2003, do Sr. Fernando de Fabinho, que "acrescenta dispositivo à Lei nº 10.336, de 19 de dezembro de 2001, para isentar as empresas de transporte coletivo urbano municipal e Transporte Coletivo Urbano Alternativo da Contribuição de Intervenção no Domínio Econômico - CIDE"
 9111;PL533509 ;Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5335, de 2009, do Senado Federal, que "altera as Leis nº 9.074, de 7 de julho de 1995, 9.433, de 8 de janeiro de 1997, 9.984, de 17 de julho de 2000, e 10.233, de 5 de junho de 2001, para tratar dos dispositivos de transposição hidroviária de níveis"
@@ -55,6 +56,17 @@
 6940;PL803510 ;Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"
 2017;CINDRA ;Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia
 6174;CMADS ;Comissão de Meio Ambiente e Desenvolvimento Sustentável
+=======
+2003;CCJC ;Comissão de Constituição e Justiça e de Cidadania
+536996;CCULT ;Comissão de Cultura
+2004;CDC ;Comissão de Defesa do Consumidor
+2008;CDEIC ;Comissão de Desenvolvimento Econômico, Indústria e Comércio
+2006;CDU ;Comissão de Desenvolvimento Urbano
+2010;CFT ;Comissão de Finanças e Tributação
+2017;CINDRA ;Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia
+6174;CMADS ;Comissão de Meio Ambiente e Desenvolvimento Sustentável
+2012;CME ;Comissão de Minas e Energia
+>>>>>>> 65fb234b30f96f0327267af5a4a01d5f406d39c2
 5503;CSPCCO ;Comissão de Segurança Pública e Combate ao Crime Organizado
 2014;CSSF ;Comissão de Seguridade Social e Família
 2015;CTASP ;Comissão de Trabalho, de Administração e Serviço Público
