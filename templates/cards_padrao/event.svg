@@ -1919,15 +1919,6 @@
          horiz-adv-x="1792"
          unicode="" />
     </font>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8326"
-       id="linearGradient8332"
-       x1="172.03795"
-       y1="503.46866"
-       x2="172.03795"
-       y2="885.84851"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1936,9 +1927,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36619826"
-     inkscape:cx="576.53039"
-     inkscape:cy="540.66195"
+     inkscape:zoom="0.25894128"
+     inkscape:cx="462.23994"
+     inkscape:cy="761.19134"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1952,11 +1943,11 @@
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="1,0"
-       position="88.571429,671.42857"
+       position="36.687855,59.859132"
        id="guide6679" />
     <sodipodi:guide
        orientation="1,0"
-       position="677.14286,671.42857"
+       position="702.86207,289.64096"
        id="guide6681" />
     <sodipodi:guide
        orientation="0,1"
@@ -1979,6 +1970,13 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:0.33823104999999998;fill:#ef2929;fill-opacity:1;stroke:none"
+       id="rect5886"
+       width="743.84131"
+       height="1051.3838"
+       x="0.013458288"
+       y="0.53622836" />
     <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
@@ -1990,20 +1988,27 @@
          id="tspan2987"
          x="80"
          y="403.79074" /></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3427"
+       width="662.85712"
+       height="108.57143"
+       x="39.999996"
+       y="26.647882" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4000"
-       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-       transform="matrix(0.5770792,0,0,0.5770792,645.09164,122.11262)"><flowRegion
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="matrix(0.5770792,0,0,0.5770792,615.05327,104.80501)"><flowRegion
          id="flowRegion4002"><rect
            id="rect4004"
-           width="645.53851"
-           height="376.92484"
+           width="886.8725"
+           height="130.85881"
            x="-797.14288"
            y="-76.209244"
-           style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'" /></flowRegion><flowPara
+           style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'" /></flowRegion><flowPara
          id="flowPara4008"
-         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:110.00000238%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"> %VAR_2%</flowPara></flowRoot>    <text
+         style="font-size:51.9859314px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"> %VAR_2%</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
        x="341.68527"
@@ -2015,13 +2020,6 @@
          x="341.68527"
          y="999.11279"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></text>
-    <rect
-       style="opacity:0.33823104999999998;fill:url(#linearGradient8332);fill-opacity:1;stroke:#000000;stroke-width:3.59999989999999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect5886"
-       width="588.57141"
-       height="380"
-       x="88.571426"
-       y="512.36218" />
     <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
@@ -2048,7 +2046,7 @@
        xml:space="preserve"
        id="flowRoot3010"
        style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       transform="matrix(0.7036114,0,0,0.7036114,579.88254,733.90951)"><flowRegion
+       transform="matrix(0.7036114,0,0,0.7036114,436.993,777.49515)"><flowRegion
          id="flowRegion3012"><rect
            id="rect3014"
            width="830.38684"
@@ -2057,7 +2055,7 @@
            y="251.33827"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3016"
-         style="font-size:51.16460419px">Estratégia tipo: %VAR_1%</flowPara></flowRoot>    <text
+         style="font-size:51.16460419px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Estratégia tipo: %VAR_1%</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:44.49892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
        x="301.28833"
@@ -2208,9 +2206,23 @@
            y="0"
            x="0" /></flowRegion><flowPara
          id="flowPara3103-5"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">%VAR_5%</flowPara></flowRoot>    <g
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">%VAR_5%</flowPara></flowRoot>    <rect
+       y="157.48158"
+       x="37.119427"
+       height="359.88977"
+       width="668.61835"
+       id="rect3429"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.95313692;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3431"
+       width="668.57141"
+       height="351.42856"
+       x="37.142849"
+       y="563.79077" />
+    <g
        id="g3485"
-       transform="matrix(2.9899392,0,0,2.9899392,233.42943,559.60604)">
+       transform="matrix(0.78755228,0,0,0.78755228,60.863983,36.447727)">
       <g
          id="Captions-1" />
       <g
@@ -2229,13 +2241,13 @@
        xml:space="preserve"
        id="flowRoot3458"
        style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
-       transform="translate(0,6)"><flowRegion
+       transform="translate(-30.038372,335.05673)"><flowRegion
          id="flowRegion3460"><rect
            id="rect3462"
-           width="583.1438"
-           height="230.33072"
-           x="90.754173"
-           y="254.88405" /></flowRegion><flowPara
+           width="636.8219"
+           height="319.64603"
+           x="79.168533"
+           y="243.29842" /></flowRegion><flowPara
          id="flowPara3464"
-         style="font-size:40px">%VAR_3%</flowPara></flowRoot>  </g>
+         style="font-size:30px;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">%VAR_3%</flowPara></flowRoot>  </g>
 </svg>
